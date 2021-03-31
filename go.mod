@@ -1,5 +1,5 @@
-module github.com/Muhammad-21/stats
+module github.com/Muhammad-21/stats/v2
 
 go 1.16
 
-require github.com/Muhammad-21/bank v0.0.0-20210331155144-61d414bb32ba // indirect
+require github.com/Muhammad-21/bank/v2 v2.0.0
